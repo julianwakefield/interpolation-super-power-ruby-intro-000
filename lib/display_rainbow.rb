@@ -7,5 +7,5 @@ def display_rainbow(colors)
   puts " #{colors[4]}"
   puts " #{colors[5]}"
   puts " #{colors[6]}"
-   
+
 end
